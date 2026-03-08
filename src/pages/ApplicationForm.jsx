@@ -172,10 +172,10 @@ name="year"
 className="w-full border border-gray-300 rounded-md p-3 focus:outline-none focus:ring-2 focus:ring-blue-600"
 >
 
-<option>1</option>
-<option>2</option>
-<option>3</option>
-<option>4</option>
+<option>one</option>
+<option>two</option>
+<option>three</option>
+<option>four</option>
 
 </select>
 
