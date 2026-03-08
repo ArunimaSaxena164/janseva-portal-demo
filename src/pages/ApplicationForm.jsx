@@ -159,27 +159,8 @@ className="w-full border border-gray-300 rounded-md p-3 focus:outline-none focus
 
 {/* Years */}
 
-<div>
 
-<label className="block text-lg font-medium text-gray-700 mb-1">
 
-Years of Study
-
-</label>
-
-<select
-name="year"
-className="w-full border border-gray-300 rounded-md p-3 focus:outline-none focus:ring-2 focus:ring-blue-600"
->
-
-<option>one</option>
-<option>two</option>
-<option>three</option>
-<option>four</option>
-
-</select>
-
-</div>
 
 
 {/* Skills */}
