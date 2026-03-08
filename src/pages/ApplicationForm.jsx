@@ -267,6 +267,7 @@ className="w-full border border-gray-300 rounded-md p-3 focus:outline-none focus
 <div className="pt-4">
 
 <button
+type="submit"
 className="bg-blue-900 hover:bg-blue-800 text-white px-8 py-4 rounded-md font-medium transition"
 >
 
